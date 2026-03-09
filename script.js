@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const loader = document.getElementById('loader');
     const contentGrid = document.getElementById('content-grid');
     const lastUpdatedEl = document.getElementById('last-updated');
-    
+
     // Category mapping text
     const categoryMapping = {
         "מודלי AI (LLM, VLAM, רובוטיקה ועוד)": "מודלי AI",
@@ -24,26 +24,26 @@ document.addEventListener('DOMContentLoaded', () => {
         try {
             // Add a small cache buster for fresh data
             const response = await fetch(`${dataUrl}?t=${new Date().getTime()}`);
-            
+
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
-            
+
             const newsData = await response.json();
-            
+
             if (!newsData || newsData.length === 0) {
                 showError("לא נמצאו כרגע עדכונים. נסה שוב מאוחר יותר.");
                 return;
             }
 
             renderNews(newsData);
-            
+
             // Set last updated time based on newest article
             if (newsData.length > 0) {
                 const newest = new Date(newsData[0].published);
                 lastUpdatedEl.textContent = `עדכון אחרון: ${formatDateHe(newest)}`;
             }
-            
+
         } catch (error) {
             console.error("Error fetching news:", error);
             showError("שגיאה בטעינת הנתונים. ייתכן והעדכון טרם פורסם.");
@@ -53,17 +53,29 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderNews(newsData) {
         // Group by category
         const grouped = {};
-        
+
         // Initialize groups
         categoryOrder.forEach(cat => {
             grouped[cat] = [];
         });
 
         newsData.forEach(item => {
-            const cat = item.category || "אחר";
-            if (!grouped[cat]) {
-                grouped[cat] = [];
+            let cat = item.category || "";
+
+            // Normalize categories to handle slight variations from the LLM
+            if (cat.includes("מודל")) {
+                cat = categoryOrder[0];
+            } else if (cat.includes("פרויקט") || cat.includes("אלגוריתם")) {
+                cat = categoryOrder[1];
+            } else if (cat.includes("עסק") || cat.includes("מיזוג") || cat.includes("רכיש")) {
+                cat = categoryOrder[2];
+            } else if (cat.includes("רגולצ") || cat.includes("אבטח") || cat.includes("פרטי") || cat.includes("חוק")) {
+                cat = categoryOrder[3];
+            } else {
+                // Fallback to "interesting projects" if model returned something completely different
+                cat = categoryOrder[1];
             }
+
             grouped[cat].push(item);
         });
 
@@ -76,8 +88,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const sectionTemplate = document.getElementById('category-template');
         const cardTemplate = document.getElementById('news-card-template');
 
-        // Only iterate over categories that actually have items
-        const categoriesToRender = categoryOrder.concat(Object.keys(grouped).filter(c => !categoryOrder.includes(c)));
+        // Only iterate over the predefined 4 categories
+        const categoriesToRender = categoryOrder;
 
         categoriesToRender.forEach(category => {
             const items = grouped[category];
@@ -93,15 +105,15 @@ document.addEventListener('DOMContentLoaded', () => {
             // Render cards for this category
             items.forEach(item => {
                 const cardNode = cardTemplate.content.cloneNode(true);
-                
+
                 cardNode.querySelector('.source-badge').textContent = item.source || "מקור לא ידוע";
                 cardNode.querySelector('.card-title').textContent = item.title;
                 cardNode.querySelector('.card-summary').textContent = item.summary;
-                
+
                 // Format date
                 const pubDate = new Date(item.published);
                 cardNode.querySelector('.publish-date').textContent = formatDateHe(pubDate);
-                
+
                 cardNode.querySelector('.read-more').href = item.link;
 
                 cardsContainer.appendChild(cardNode);
@@ -116,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
             sec.style.opacity = '0';
             sec.style.transform = 'translateY(20px)';
             sec.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
-            
+
             setTimeout(() => {
                 sec.style.opacity = '1';
                 sec.style.transform = 'translateY(0)';
