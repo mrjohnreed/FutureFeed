@@ -10,9 +10,9 @@ load_dotenv()
 
 # Set up the OpenAI client for GitHub Models
 # The endpoint is https://models.inference.ai.azure.com
-token = os.environ.get("MODEL_TOKEN")
+token = os.environ.get("GITHUB_TOKEN")
 if not token:
-    raise ValueError("MODEL_TOKEN environment variable is required")
+    raise ValueError("GITHUB_TOKEN environment variable is required")
 
 client = OpenAI(
     base_url="https://models.inference.ai.azure.com",
