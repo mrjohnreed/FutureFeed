@@ -1,162 +1,182 @@
 [
   {
-    "id": "-8170796545719987513",
-    "title": "חיזוק הממשל הארגוני עבור עומסי עבודה בקצה בתחום ה-AI",
+    "id": "3724737080252588896",
+    "title": "הפרויקט של סם אלטמן, World, שואף להרחיב את אימפריית האימות האנושי שלו. התחנה הראשונה: טינדר.",
+    "original_title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "summary": "הפרויקט World של סם אלטמן, שמתמקד באימות אנונימי באמצעות טכנולוגיית Orb, מתכנן להרחיב את השפעתו באמצעות שותפויות חדשות, כשהיעד הראשון הוא אפליקציית ההיכרויות טינדר.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+    "published": "2026-04-17T22:34:02",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "7777921284355295758",
+    "title": "קווין ווייל וביל פיבלס עוזבים את OpenAI כאשר החברה ממשיכה להיפרד מ'משימות צדדיות'",
+    "original_title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "summary": "קווין ווייל וביל פיבלס עוזבים את OpenAI, כאשר החברה סוגרת את פרויקט סורה ומקפלת את צוות המדע שלה. המהלך מסמן שינוי חד ממיזמים צרכניים לעבר AI ארגוני.",
+    "category": "עסקים",
+    "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "published": "2026-04-17T20:38:17",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "5558841807606106244",
+    "title": "טוקנמקסינג, מסע הרכישות של OpenAI ופער החרדה מבינה מלאכותית",
+    "original_title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+    "summary": "המאמר עוסק בפער ההולך וגדל בין מומחי בינה מלאכותית לבין הציבור הרחב, המתבטא בהוצאות, חשדות ואפילו במונחים חדשים. OpenAI מבצעת רכישות רבות, כולל אפליקציות פיננסיות ותוכניות אירוח, בעוד שחברות אחרות כמו Anthropic מציגות מודלים חזקים אך מגבילות את שחרורם לציבור.",
+    "category": "עסקים",
+    "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "published": "2026-04-17T15:57:40",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "7949120515199794093",
+    "title": "Anthropic משיקה את Claude Design, מוצר חדש ליצירת ויזואלים מהירים",
+    "original_title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+    "summary": "חברת Anthropic השיקה את Claude Design, מוצר חדש שמטרתו לעזור לאנשים כמו יזמים ומנהלי מוצר ללא רקע בעיצוב לשתף את רעיונותיהם בצורה קלה ומהירה.",
+    "category": "מודלי AI",
+    "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+    "published": "2026-04-17T15:00:00",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-841063327786012740",
+    "title": "האם אנחנו מתקדמים לשום מקום עם טוקניזציה?",
+    "original_title": "Are we tokenmaxxing our way to nowhere?",
+    "summary": "המאמר עוסק בפער ההולך וגדל בין מומחי בינה מלאכותית לבין הציבור הרחב, המתבטא בהוצאות, חשדנות ואפילו במונחים חדשים. הוא מתאר כיצד חברות כמו OpenAI רוכשות אפליקציות פיננסיות ותוכניות אירוח, בעוד שחברות אחרות ממתגות את עצמן מחדש כמתמחות בתשתיות AI. בנוסף, Anthropic חשפה מודל חדש שהיא טוענת שהוא חזק מדי לשחרור ציבורי.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+    "published": "2026-04-17T13:00:00",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "7890690557806324962",
+    "title": "Factory מגיעה לשווי של 1.5 מיליארד דולר לפיתוח קידוד בינה מלאכותית עבור ארגונים",
+    "original_title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "summary": "חברת הסטארטאפ בת השלוש גייסה 150 מיליון דולר בהובלת Khosla Ventures, והגיעה לשווי של 1.5 מיליארד דולר. החברה מתמקדת בפיתוח פתרונות בינה מלאכותית לקידוד עבור ארגונים.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "published": "2026-04-16T22:55:30",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-1738706688764788420",
+    "title": "לומה משיקה אולפן הפקה מבוסס בינה מלאכותית עם פרויקט הפלא המתמקד באמונה",
+    "original_title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+    "summary": "חברת לומה השיקה אולפן הפקה חדש המופעל על ידי בינה מלאכותית, המתמקד בפרויקטים עם נושאים דתיים. הפרויקט הראשון של האולפן יעסוק במשה ויככב בו זוכה פרס האוסקר בן קינגסלי. הסרט צפוי לצאת באביב הקרוב ב-Prime Video.",
+    "category": "מודלי AI",
+    "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "published": "2026-04-16T21:58:08",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "1932819305020786970",
+    "title": "Upscale AI במגעים לגיוס לפי שווי של 2 מיליארד דולר, לפי דיווח",
+    "original_title": "Upscale AI in talks to raise at $2B valuation, says report",
+    "summary": "חברת התשתיות לבינה מלאכותית Upscale AI נמצאת לכאורה במגעים לגיוס סבב מימון שלישי מאז שהושקה לפני שבעה חודשים בלבד, לפי דיווחים, לפי שווי של 2 מיליארד דולר.",
+    "category": "עסקים (מיזוגים, רכישות ועוד)",
+    "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "published": "2026-04-16T20:41:13",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "-9060521016537597380",
+    "title": "SDK של OpenAI Agents משפר ניהול עם ביצוע בסביבת סנדבוקס",
+    "original_title": "OpenAI Agents SDK improves governance with sandbox execution",
+    "summary": "OpenAI מציגה יכולת חדשה ב-SDK שלה, המאפשרת ביצוע תהליכים אוטומטיים בסביבת סנדבוקס לשיפור ניהול סיכונים בארגונים. הפתרון מספק גמישות תוך ניצול יכולות מתקדמות של מודלים חדשניים, ומסייע לצוותים לעבור משלב אבטיפוס לייצור בצורה בטוחה ויעילה.",
+    "category": "פרויקטים ואלגוריתמים מעניינים",
+    "link": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+    "published": "2026-04-16T11:20:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-4055839629012198973",
+    "title": "Cadence מרחיבה שיתופי פעולה בינה מלאכותית ורובוטיקה עם Nvidia ו-Google Cloud",
+    "original_title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+    "summary": "חברת Cadence Design Systems הכריזה על שתי שיתופי פעולה חדשים הקשורים ל-AI באירוע CadenceLIVE. שיתוף הפעולה עם Nvidia מתמקד בשילוב AI עם סימולציה מבוססת פיזיקה ומחשוב מואץ עבור מערכות רובוטיות ותכנון ברמת המערכת. בנוסף, החברה הציגה אינטגרציות חדשות עם Google Cloud.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+    "published": "2026-04-16T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "4765713211739543272",
+    "title": "קומוולט משיקה 'Ctrl-Z' לעומסי עבודה של AI בענן",
+    "original_title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
+    "summary": "חברת Commvault השיקה את AI Protect, פתרון חדש שמספק תכונת 'Ctrl-Z' לסביבות ענן ארגוניות המשתמשות בסוכני AI. הכלי נועד להתמודד עם בעיות ממשל ואבטחת מידע הנגרמות על ידי תוכנות אוטונומיות שיכולות למחוק קבצים, לקרוא מסדי נתונים, להקים אשכולות שרתים ואף לשנות מדיניות גישה.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+    "published": "2026-04-15T16:28:19",
+    "source": "AI News"
+  },
+  {
+    "id": "-5777107103903159819",
+    "title": "למפתחים ללא רקע טכני יש כעת עוזר אישי משלהם",
+    "original_title": "Citizen developers now have their own Wingman",
+    "summary": "חברת Emergent השיקה את Wingman, סוכן אוטונומי שמסוגל לנהל ולשלוט באפליקציות המשמשות לניהול משימות יומיומיות. המטרה היא להנגיש טכנולוגיה מתקדמת גם למשתמשים ללא רקע טכני, ולאפשר להם ליצור אפליקציות בקלות.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+    "published": "2026-04-15T14:42:00",
+    "source": "AI News"
+  },
+  {
+    "id": "7014722416971915345",
+    "title": "רחפנים נעשים חכמים יותר עבור חוות חקלאיות גדולות",
+    "original_title": "Drones get smarter for large farm holdings",
+    "summary": "חברת DroneDash Technologies מסינגפור וחברת GEODNET חברו למיזם משותף בשם GEODASH Aerosystems לפיתוח רחפן ריסוס חקלאי עבור חוות תעשייתיות גדולות. הטכנולוגיה החדשה של הרחפן נועדה לבטל את הצורך במיפוי השדה לפני כל טיסה ובבניית תוכניות טיסה מחדש.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+    "published": "2026-04-15T11:03:00",
+    "source": "AI News"
+  },
+  {
+    "id": "1338290385039018418",
+    "title": "הפער בבינה מלאכותית בין ארה\"ב לסין מצטמצם על רקע דאגות סביב AI אחראי",
+    "original_title": "The US-China AI gap closes amid responsible AI concerns",
+    "summary": "דו\"ח מדד ה-AI לשנת 2026 של אוניברסיטת סטנפורד מצביע על כך שהפער בביצועי מודלי AI בין ארה\"ב לסין מצטמצם, תוך התמקדות בדאגות סביב AI אחראי. הדו\"ח, שמפורסם על ידי מכון סטנפורד לבינה מלאכותית ממוקדת אדם, מספק הערכה שנתית מקיפה על מצב הבינה המלאכותית בעולם.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+    "published": "2026-04-15T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-312694168685490287",
+    "title": "SAP מביאה AI סוכני לניהול הון אנושי",
+    "original_title": "SAP brings agentic AI to human capital management",
+    "summary": "SAP משלבת AI סוכני במודולים מרכזיים של ניהול הון אנושי (HCM) במטרה לצמצם עלויות ולשפר יעילות תפעולית. גרסת SuccessFactors 1H 2026 תכלול רשת של סוכני AI שיסייעו בניהול גיוס, שכר, אדמיניסטרציה וכישרונות, תוך חיזוי צווארי בקבוק אדמיניסטרטיביים לפני שיגרמו לעיכובים.",
+    "category": "מודלי AI",
+    "link": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+    "published": "2026-04-14T12:55:09",
+    "source": "AI News"
+  },
+  {
+    "id": "-3632696832298902128",
+    "title": "בנק סקוטיה הקנדי מתכונן לעתיד האינטליגנציה המלאכותית",
+    "original_title": "Canada’s Scotiabank preps for its AI future",
+    "summary": "בנק סקוטיה הקנדי השיק מסגרת עבודה חדשה בשם Scotia Intelligence לניהול נתונים ואינטליגנציה מלאכותית. המסגרת מאחדת פלטפורמות שונות, פיקוח על נתונים וכלי תוכנה למערכת אחת, במטרה לאפשר גישה לאינטליגנציה מלאכותית לצוותים העובדים מול לקוחות, תחת מדיניות הממשל הקיימת של הבנק.",
+    "category": "עסקים",
+    "link": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
+    "published": "2026-04-14T11:20:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-4888760923792892822",
+    "title": "יונדאי מתרחבת לתחום הרובוטיקה ומערכות AI פיזיות",
+    "original_title": "Hyundai expands into robotics and physical AI systems",
+    "summary": "חברת יונדאי מוטור גרופ מתרחבת לתחום הרובוטיקה ומערכות AI פיזיות, תוך התמקדות בשילוב בינה מלאכותית ברובוטים ומערכות הפועלות במרחבים פיזיים. המאמצים הנוכחיים מתמקדים בעיקר בסביבות תעשייתיות ומפעלים.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
+    "published": "2026-04-14T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "6319385760291564136",
+    "title": "חיזוק ממשל ארגוני עבור עומסי עבודה בקצה המבוססים על בינה מלאכותית",
     "original_title": "Strengthening enterprise governance for rising edge AI workloads",
-    "summary": "מודלים כמו Google Gemma 4 מגבירים את אתגרי הממשל הארגוני עבור מנהלי אבטחת מידע (CISOs), כאשר הם מתמודדים עם אבטחת עומסי עבודה בקצה. מנהלי אבטחה בנו חומות דיגיטליות מסיביות סביב הענן, תוך שימוש במתווכים מתקדמים לגישה לענן והפניית כל תעבורה למודלים גדולים דרך שערים ארגוניים מבוקרים.",
+    "summary": "המאמר עוסק באתגרים גוברים של ניהול ממשל ארגוני עבור עומסי עבודה בקצה המבוססים על בינה מלאכותית, כמו מודלים גדולים דוגמת Google Gemma 4. מנהלי אבטחת מידע מתמודדים עם הצורך להגן על עומסי עבודה אלו באמצעות תיווך מתקדם לגישה לענן והפניית תעבורה למודלים חיצוניים דרך שערים ארגוניים מנוטרים.",
     "category": "רגולציה, אבטחה ופרטיות",
     "link": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
     "published": "2026-04-13T13:02:01",
-    "source": "AI News"
-  },
-  {
-    "id": "6266484497989058370",
-    "title": "חברות מרחיבות את אימוץ הבינה המלאכותית תוך שמירה על שליטה",
-    "original_title": "Companies expand AI adoption while keeping control",
-    "summary": "חברות רבות מאמצות מערכות בינה מלאכותית בגישה מבוקרת ואיטית יותר, תוך התמקדות בכלים המסייעים בקבלת החלטות אנושיות ושמירה על שליטה בתוצאות. גישה זו בולטת במיוחד בתחומים שבהם טעויות עלולות לגרום לסיכון כלכלי או משפטי.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
-    "published": "2026-04-13T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-2521521452814693594",
-    "title": "גורמים בממשל טראמפ עשויים לעודד בנקים לבדוק את מודל Mythos של Anthropic",
-    "original_title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-    "summary": "דיווח מפתיע מצביע על כך שגורמים בממשל טראמפ עשויים לעודד בנקים לבדוק את מודל Mythos של חברת Anthropic, למרות שהפנטגון הכריז לאחרונה על החברה כסיכון לשרשרת האספקה.",
-    "category": "מודלי AI",
-    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "published": "2026-04-12T21:14:38",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-3304723285315912110",
-    "title": "ממודלים לשוניים גדולים ועד הזיות: מדריך פשוט למונחים נפוצים בבינה מלאכותית",
-    "original_title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-    "summary": "עליית הבינה המלאכותית הביאה להצפה של מונחים וסלנג חדשים. המאמר מציע מילון מונחים עם הגדרות למילים וביטויים חשובים שניתן להיתקל בהם בתחום.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "published": "2026-04-12T15:07:08",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-2846780201876758836",
-    "title": "בכנס HumanX, כולם דיברו על Claude",
-    "original_title": "At the HumanX conference, everyone was talking about Claude",
-    "summary": "בכנס HumanX בסן פרנסיסקו, חברת Anthropic הייתה במרכז תשומת הלב עם הדגש על המודל שלהם, Claude, שמשך עניין רב בקהילה.",
-    "category": "מודלי AI",
-    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "published": "2026-04-12T15:00:00",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "8078437205900889303",
-    "title": "Anthropic השעתה זמנית את גישת יוצר OpenClaw ל-Claude",
-    "original_title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-    "summary": "חברת Anthropic השעתה זמנית את גישת יוצר OpenClaw למודל Claude בעקבות שינויי תמחור שנעשו עבור משתמשי OpenClaw בשבוע שעבר.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-    "published": "2026-04-10T20:27:52",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "6120748562067346195",
-    "title": "קורבן מעקב תובעת את OpenAI, טוענת ש-ChatGPT הזין את האשליות של המטריד שלה והתעלם מאזהרותיה",
-    "original_title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "summary": "תביעה חדשה טוענת כי OpenAI התעלמה משלוש אזהרות שהצביעו על כך שמשתמש ב-ChatGPT היה מסוכן, כולל דגל פנימי על סכנה המונית, בזמן שעקב והטריד את חברתו לשעבר.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "published": "2026-04-10T16:41:34",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-6874904357993105241",
-    "title": "TechCrunch מגיעים לטוקיו — ומביאים איתם את Startup Battlefield",
-    "original_title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-    "summary": "כנס SusHi Tech 2026 יתמקד בארבעה תחומים טכנולוגיים שמשנים את החברה: בינה מלאכותית, רובוטיקה, עמידות ובידור. האירוע יכלול הדגמות חיות של רובוטים דמויי אדם, דיונים על מהפכת התוכנה בנהיגה אוטונומית, ניתוחים מעמיקים של הגנת סייבר וטכנולוגיות אקלים, ושיחות גלוי לב על האופן שבו בינה מלאכותית משנה את תעשיות המוזיקה והאנימה העולמיות.",
-    "category": "מודלי AI",
-    "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-    "published": "2026-04-10T16:38:43",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "9058452571416116185",
-    "title": "IBM: כיצד ממשל AI חזק מגן על רווחי הארגון",
-    "original_title": "IBM: How robust AI governance protects enterprise margins",
-    "summary": "מנהלים עסקיים חייבים להשקיע בממשל AI חזק כדי לנהל בצורה מאובטחת את תשתיות הבינה המלאכותית ולהגן על רווחי הארגון. רוב תומאס, סגן נשיא בכיר ב-IBM, מתאר כיצד תוכנה מתפתחת ממוצר עצמאי לפלטפורמה, וכיצד ממשל נכון תורם ליציבות ולשיפור ביצועים עסקיים.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-    "published": "2026-04-10T13:57:15",
-    "source": "AI News"
-  },
-  {
-    "id": "4492257273702276911",
-    "title": "מדוע חברות כמו אפל מפתחות סוכני AI עם מגבלות",
-    "original_title": "Why companies like Apple are building AI agents with limits",
-    "summary": "חברות כמו אפל וקוואלקום מפתחות עוזרים חכמים מהדור הבא, אך עם מגבלות מובנות. עוזרים אלו מסוגלים לנווט בין אפליקציות, לבצע הזמנות ולנהל משימות בשירותים שונים, תוך שמירה על עקרונות פרטיות ובקרה.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
-    "published": "2026-04-10T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-3521024991301915945",
-    "title": "למטא יש מודל AI תחרותי אך מאבדת את זהותה בקוד הפתוח",
-    "original_title": "Meta has a competitive AI model but loses its open-source identity",
-    "summary": "מאמר זה עוסק במודל AI תחרותי של חברת מטא, אשר שינה את פני תנועת הקוד הפתוח בתחום הבינה המלאכותית. מטא, עם משאבים עצומים ומוניטין של ענקית טכנולוגיה, פיתחה את מודל Llama באופן פתוח, אך התהליך גרם לאובדן חלק מהזהות של הקוד הפתוח.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
-    "published": "2026-04-10T08:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-261832191483980986",
-    "title": "אתגרי ממשל של סוכני AI תחת חוק ה-AI של האיחוד האירופי בשנת 2026",
-    "original_title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
-    "summary": "המאמר עוסק באתגרים של ממשל עבור סוכני AI תחת חוק ה-AI של האיחוד האירופי בשנת 2026. סוכני AI מסוגלים להעביר נתונים בין מערכות ולקבל החלטות באופן אוטומטי, אך לעיתים הם פועלים ללא תיעוד ברור של פעולותיהם. מצב זה עשוי ליצור בעיות ממשליות, שעליהן אחראים מנהיגי IT בארגונים. חוסר יכולת לעקוב אחר פעולות הסוכנים עלול להוביל לסיכונים רגולטוריים משמעותיים.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
-    "published": "2026-04-09T15:02:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-8896083101680049834",
-    "title": "Anthropic שומרת את מודל ה-AI החדש שלה פרטי לאחר שמצאה אלפי פגיעויות חיצוניות",
-    "original_title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
-    "summary": "חברת Anthropic פיתחה מודל AI מתקדם בשם Claude Mythos Preview, אשר זיהה אלפי פגיעויות אבטחת סייבר במערכות הפעלה ודפדפנים מרכזיים. במקום לשחרר את המודל לציבור, החברה החליטה להעביר אותו בשקט לארגונים האחראים על תפעול האינטרנט כחלק מיוזמה בשם Project Glasswing.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
-    "published": "2026-04-09T12:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-1425995705003770441",
-    "title": "הצלחת פיתוח תוכנה באמצעות AI וצורך בניהול מרכזי",
-    "original_title": "AI’s software development success and central management needs",
-    "summary": "סקר שנערך על ידי OutSystems, בשם 'מצב פיתוח ה-AI 2026', מצביע על כך ש-AI נכנס לשלב ייצור מוקדם עבור ארגונים רבים, בעיקר בתוך פונקציית ה-IT. הסקר, שהתבסס על תגובות של 1,879 מנהיגי IT, מזהיר כי אימוץ ה-AI עלול להתקדם מהר מדי ללא ניהול מרכזי מתאים.",
-    "category": "עסקים",
-    "link": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
-    "published": "2026-04-08T10:43:00",
-    "source": "AI News"
-  },
-  {
-    "id": "8568741469029240681",
-    "title": "ערכת כלים בקוד פתוח של מיקרוסופט מאבטחת סוכני AI בזמן אמת",
-    "original_title": "Microsoft open-source toolkit secures AI agents at runtime",
-    "summary": "מיקרוסופט השיקה ערכת כלים בקוד פתוח שמטרתה להבטיח את האבטחה של סוכני AI בזמן אמת. הכלים נועדו להחיל מדיניות נוקשה על סוכנים ארגוניים המשתמשים במודלים אוטונומיים, אשר מבצעים קוד וניגשים לרשתות ארגוניות בקצב מהיר יותר מיכולת השליטה המסורתית. המהלך נועד להתמודד עם חששות גוברים בנוגע לאבטחת השימוש במודלים שפתיים אוטונומיים.",
-    "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
-    "published": "2026-04-08T10:23:53",
-    "source": "AI News"
-  },
-  {
-    "id": "4879737433978718573",
-    "title": "Asylon ו-Thrive Logic מביאות בינה מלאכותית פיזית לאבטחת היקף ארגוני",
-    "original_title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-    "summary": "חברת Thrive Logic, פלטפורמת בינה מלאכותית לניהול אבטחה ומודיעין תפעולי, משתפת פעולה עם חברת Asylon, המתמחה ברובוטיקה אבטחתית. יחד הן מציגות שימוש בבינה מלאכותית פיזית לאבטחת היקף ארגוני, המשלבת סיורים אוטונומיים עם ניתוחי בינה מלאכותית מתקדמים.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-    "published": "2026-04-07T14:40:42",
     "source": "AI News"
   }
 ]
