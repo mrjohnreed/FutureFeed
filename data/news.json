@@ -1,142 +1,152 @@
 [
   {
-    "id": "-141678569546231157",
-    "title": "גוגל תשלם ל-SpaceX 920 מיליון דולר לחודש עבור מחשוב",
-    "original_title": "Google will pay SpaceX $920M per month for compute",
-    "summary": "גוגל תשלם ל-SpaceX סכום של 920 מיליון דולר לחודש עבור משאבי מחשוב, בעקבות הביקוש הבלתי צפוי למוצרים מבוססי הבינה המלאכותית שהשיקה לאחרונה.",
-    "category": "עסקים (מיזוגים, רכישות ועוד)",
-    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "published": "2026-06-05T18:57:20",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-8477138484239252914",
-    "title": "החשבון מגיע: בתוך המאבק התעשייתי לניהול עלויות הבינה המלאכותית",
-    "original_title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "summary": "הכתבה מתארת את האתגרים הכלכליים והניהוליים הנובעים מהשימוש המוגבר במודלים של בינה מלאכותית, תוך מעבר מגישה של 'מהירות מקסימלית' לגישה הדורשת הגדרת גבולות ושליטה בעלויות. התעשייה מתמודדת עם הצורך באיזון בין חדשנות לבין ניהול משאבים בצורה אחראית.",
+    "id": "4119305653297973369",
+    "title": "האזהרות של Anthropic לגבי בטיחות אולי פעלו נגדה — הממשלה הפסיקה את השימוש ב-AI החזק ביותר שלה",
+    "original_title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "summary": "חברת Anthropic הביעה תסכול בעקבות החלטת הממשלה להפסיק את השימוש במודל ה-AI החזק ביותר שלה, בעקבות חשש מפני פרצות אבטחה פוטנציאליות. החברה טוענת כי מדובר בהחלטה מוגזמת בהתבסס על ממצאים מצומצמים.",
     "category": "רגולציה, אבטחה ופרטיות",
-    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "published": "2026-06-05T14:49:12",
+    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "published": "2026-06-13T02:26:30",
     "source": "AI News & Artificial Intelligence | TechCrunch"
   },
   {
-    "id": "-6294966757383644596",
-    "title": "AirTrunk מתחייבת להשקיע 30 מיליארד דולר להקמת מרכזי נתונים של בינה מלאכותית בהודו",
-    "original_title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-    "summary": "חברת AirTrunk האוסטרלית הודיעה על השקעה של 30 מיליארד דולר להקמת מרכזי נתונים בהספק של 5 ג'יגה-וואט בהודו, במטרה לתמוך בצרכים הגוברים של בינה מלאכותית.",
+    "id": "8240665279123340384",
+    "title": "יחידת ה-AI החדשה של מטא היא גולאג שובר נשמות, אומרים המהנדסים הכלואים בה",
+    "original_title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "summary": "דיווח חדש חושף כי יחידת ה-AI של חברת מטא, שהוקמה לפני מספר חודשים ומעסיקה 6,500 עובדים, נמצאת על סף מרד בשל תנאי עבודה קשים ותסכול בקרב המהנדסים.",
     "category": "עסקים",
-    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-    "published": "2026-06-05T13:03:10",
+    "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "published": "2026-06-12T23:00:54",
     "source": "AI News & Artificial Intelligence | TechCrunch"
   },
   {
-    "id": "1108508294283016050",
+    "id": "-4073610163285553286",
+    "title": "מבצע פשיעת סייבר סיני שהשתמש בבינה מלאכותית להונאת מאות אלפי קורבנות נתבע על ידי גוגל",
+    "original_title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "summary": "גוגל תובעת קבוצה בשם 'Outsider Enterprise' שהשתמשה בבינה מלאכותית כדי להונות מאות אלפי קורבנות. הקבוצה שלחה 2.5 מיליון הודעות טקסט במהלך שבועיים.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "published": "2026-06-12T20:38:09",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "5045963227987983797",
+    "title": "Coinbase for Agents: אוטומציה של מסחר בתיקים באמצעות בינה מלאכותית",
+    "original_title": "Coinbase for Agents: Automating portfolio trading with AI",
+    "summary": "Coinbase for Agents מחבר בין בינה מלאכותית לערוצי ביצוע פיננסיים כדי לאפשר מסחר ותשלומים אוטומטיים ישירות מתיקי משתמשים. מודלים גדולים לשפה מעבדים כמויות גדולות של נתונים אך חסרים אינטגרציה ישירה עם תיקי השקעות פעילים. כלים אלו משמשים לעיתים קרובות להערכת התפתחויות בשוק או למחקר הזדמנויות השקעה.",
+    "category": "מודלי AI",
+    "link": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+    "published": "2026-06-12T15:34:23",
+    "source": "AI News"
+  },
+  {
+    "id": "8191313946221235599",
+    "title": "זול יותר, מהיר יותר ומודע תרבותית: הבינה המלאכותית של Avataar מותאמת להיקף השוק ההודי",
+    "original_title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "summary": "חברת Avataar פיתחה מודל וידאו מבוסס בינה מלאכותית שמציע יצירת וידאו בעלות נמוכה של $0.005 לשנייה. המודל מותאם במיוחד להיקפי השוק ההודי ולרגישויות התרבותיות המקומיות.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "published": "2026-06-12T04:30:00",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "8844843606825504935",
+    "title": "Theker גייסה 85 מיליון דולר לפיתוח רובוט תעשייתי שאינו מתמחה במשהו ספציפי",
+    "original_title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "summary": "חברת Theker גייסה 85 מיליון דולר לפיתוח רובוטים תעשייתיים שניתן להתאים מחדש לצרכים שונים, בניגוד לרובוטים הומנואידים עם צורה קבועה, כמו אלו של Boston Dynamics.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "published": "2026-06-12T01:48:07",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "1929388709780042651",
+    "title": "פרומתאוס של ג'ף בזוס מגייסת 12 מיליארד דולר לפיתוח 'מהנדס כללי מלאכותי' לעולם הפיזי",
+    "original_title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "summary": "חברת הסטארטאפ Prometheus, הנתמכת על ידי ג'ף בזוס, גייסה 12 מיליארד דולר במטרה לפתח 'מהנדס כללי מלאכותי' לעולם הפיזי. החברה מתמקדת באוטומציה של הנדסה כבדה ועיצוב תרופות, והערכת השווי שלה עומדת כעת על 41 מיליארד דולר.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "published": "2026-06-12T01:04:38",
+    "source": "AI News & Artificial Intelligence | TechCrunch"
+  },
+  {
+    "id": "5343510699405385931",
+    "title": "שילוב ChatGPT של ויזה מאפשר רכישות קמעונאיות באמצעות סוכני בינה מלאכותית",
+    "original_title": "Visa ChatGPT integration enables AI agent retail purchasing",
+    "summary": "חברת ויזה שילבה את תשתית התשלומים שלה עם ChatGPT, מה שמאפשר לסוכני בינה מלאכותית להמליץ על מוצרים קמעונאיים ולבצע עסקאות פיננסיות. הפתרון מסיר את הצורך בהתערבות אנושית בשלבים הסופיים של תהליך הקנייה, ומאפשר לסוכנים אוטונומיים לעבד בקשות משתמשים, להעריך קטלוגים של סוחרים ולהשלים את תהליך התשלום באמצעות תשתית התשלומים של ויזה.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+    "published": "2026-06-11T11:08:17",
+    "source": "AI News"
+  },
+  {
+    "id": "-9069652929501183764",
+    "title": "Xebia: מדוע סוכני AI נכשלים ללא תשתית נתונים נכונה",
+    "original_title": "Xebia: Why AI agents fail without the right data foundation",
+    "summary": "המאמר עוסק בחשיבות של בניית תשתית נתונים נכונה לצורך הפעלת סוכני AI בארגונים. נילס זיילמייקר, ה-CTO הגלובלי של Xebia, מסביר שסוכני AI תלויים בחוזק הנתונים עליהם הם מבוססים, וכי ללא תשתית נתונים מתאימה, יתקשו סוכנים אלו להצליח ולשפר תהליכים בארגון.",
+    "category": "מודלי AI",
+    "link": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+    "published": "2026-06-11T10:42:38",
+    "source": "AI News"
+  },
+  {
+    "id": "1106578077725057418",
+    "title": "Siri AI מגיעה עם Google בפנים, ורוב העולם נותר מחוץ לתמונה",
+    "original_title": "Siri AI arrives with Google inside, and much of the world is locked out",
+    "summary": "בכנס WWDC 2026, אפל הכריזה על שילוב של טכנולוגיית AI מתקדמת ב-Siri, תוך שימוש במודל Google Gemini. עם זאת, חלקים גדולים מהעולם אינם מקבלים גישה לטכנולוגיה זו, מה שמעלה שאלות לגבי זמינות גלובלית ושוויון בגישה ליכולות AI.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+    "published": "2026-06-10T11:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "9198707650832865917",
+    "title": "מקדונלד'ס בוחנת מערכת הזמנות דרייב-אין מבוססת AI בתמיכת גוגל",
+    "original_title": "McDonald’s tests Google-backed AI drive-thru ordering system",
+    "summary": "חברת מקדונלד'ס בוחנת מערכת AI חדשה בשם ArchIQ, המכונה 'ארצ'י', שמטרתה לנהל הזמנות במכוני הדרייב-אין ולתמוך בתפעול המסעדות. המערכת נתמכת על ידי גוגל ונבדקת בחמישה סניפים בארצות הברית.",
+    "category": "מודלי AI",
+    "link": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+    "published": "2026-06-10T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "-1010827010052787443",
+    "title": "אובדן נתונים ב-AI אוטונומי ב-DevOps: בניית הגנות יעילות",
+    "original_title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
+    "summary": "סוכני AI אוטונומיים משנים את קצב הפיתוח והשחרור של תוכנה, אך גם מקצרים את הזמן שבו טעויות עלולות להפוך לאסון. האיום אינו מגיע רק מתוכנות כופר חיצוניות או גורמים זדוניים פנימיים, אלא גם מכלים פנימיים מורשים. המאמר דן בצורך לבנות הגנות יעילות כדי להתמודד עם אובדן נתונים בסביבות DevOps.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/",
+    "published": "2026-06-09T08:50:39",
+    "source": "AI News"
+  },
+  {
+    "id": "7234269548451503696",
+    "title": "Aviva משתמשת בבינה מלאכותית כדי לעצור הונאות ביטוח בשווי 230 מיליון פאונד",
+    "original_title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
+    "summary": "חברת הביטוח Aviva חשפה הונאות ביטוח בשווי שיא של 230 מיליון פאונד ומשתמשת בכלי בינה מלאכותית כדי להתמודד עם הבעיה ההולכת וגדלה. הכלים החדשים מאפשרים לחברה להגן מפני הונאות מתוחכמות בסביבה שבה גם מבצעי ההונאות משתמשים בטכנולוגיות מתקדמות.",
+    "category": "רגולציה, אבטחה ופרטיות",
+    "link": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
+    "published": "2026-06-08T12:19:38",
+    "source": "AI News"
+  },
+  {
+    "id": "5380689298240089856",
+    "title": "Weis Markets מוסיפה עגלות קניות חכמות מבוססות AI של Instacart לחנויות",
+    "original_title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
+    "summary": "רשת הסופרמרקטים Weis Markets משלבת עגלות קניות חכמות המופעלות על ידי AI של Instacart, בשם Caper Carts, בחנויות נבחרות בפנסילבניה. העגלות כוללות מצלמות, מאזניים מוסמכים, מערכות מיקום ומסך מגע, ומציעות קופונים דיגיטליים, תכונות נאמנות והמלצות לרכישות חוזרות.",
+    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
+    "link": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
+    "published": "2026-06-08T10:00:00",
+    "source": "AI News"
+  },
+  {
+    "id": "4081940714319126675",
     "title": "כיצד סוכני C3 AI יאפשרו תחזוקה חזויה אוטומטית עבור Shell",
     "original_title": "How C3 AI agents will automate predictive maintenance for Shell",
-    "summary": "חברת Shell תשתמש בסוכנים של C3 AI כדי לעבור מזיהוי אנומליות בסיסי לתחזוקה חזויה אוטומטית לחלוטין. החברה מתבססת על שימוש קיים בחבילת C3 AI Reliability Suite, המנטרת מעל 30,000 רכיבים קריטיים בתהליכי הייצור. המהלך נועד לשפר את היעילות והאמינות של הציוד.",
-    "category": "מודלי AI",
+    "summary": "חברת Shell תשתמש בסוכנים של C3 AI כדי לעבור מזיהוי אנומליות בסיסי לתחזוקה חזויה אוטומטית לחלוטין. החברה מתבססת על השימוש הנוכחי שלה ב-C3 AI Reliability Suite, שמנטרת מעל 30,000 רכיבים קריטיים בתפעוליה. המהלך נועד לשפר את היעילות והאמינות של הציוד בתהליכי הייצור.",
+    "category": "עסקים",
     "link": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
     "published": "2026-06-05T11:34:09",
-    "source": "AI News"
-  },
-  {
-    "id": "8455644724952486092",
-    "title": "לקראת ההנפקה, דניאלה אמודיי מ-Anthropic מתעלמת מספקות לגבי הרווחיות של AI",
-    "original_title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "summary": "חברת Anthropic, שצומחת בקצב מהיר, הודיעה כי ההכנסות השנתיות שלה חצו את רף 47 מיליארד דולר במאי, עלייה דרמטית לעומת כ-9 מיליארד דולר בסוף 2025. עם זאת, החברה עומדת בפני מבחן משמעותי לקראת ההנפקה שלה.",
-    "category": "עסקים (מיזוגים, רכישות ועוד)",
-    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "published": "2026-06-04T22:43:26",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "-2347060994874523510",
-    "title": "בריאן צ'סקי מ-Airbnb מתכנן להשיק מעבדה חדשה ל-AI",
-    "original_title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "summary": "מנכ\"ל Airbnb, בריאן צ'סקי, מתכנן להשיק מעבדה חדשה ל-AI. צ'סקי ציין כי החברה לא שיתפה פעולה עם מודלי שפה גדולים (LLM) עד כה, מכיוון שהמוצרים הקיימים לא היו מוכנים מספיק.",
-    "category": "מודלי AI",
-    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-    "published": "2026-06-04T22:29:50",
-    "source": "AI News & Artificial Intelligence | TechCrunch"
-  },
-  {
-    "id": "4078395049542813800",
-    "title": "Meta משיקה את Business Agent למסחר שיחתי מבוסס בינה מלאכותית",
-    "original_title": "Meta Business Agent drives AI-powered conversational commerce",
-    "summary": "חברת מטא השיקה את Business Agent, כלי אוטומציה למסחר שיחתי המיועד ליישומי ההודעות שלה. התוכנה מאפשרת למותגים קמעונאיים גלובליים לבצע עסקאות ולטפל בפניות תמיכה ללא התערבות אנושית. הכלי משולב באופן טבעי באינסטגרם, מסנג'ר ובקרוב גם בוואטסאפ, ומציב את הבינה המלאכותית במרכז המסחר החברתי.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
-    "published": "2026-06-04T17:17:40",
-    "source": "AI News"
-  },
-  {
-    "id": "5135893483682153739",
-    "title": "סקאוט ממיקרוסופט הוא האוטופיילוט האג'נטי שפועל על פני M365",
-    "original_title": "Scout from M’Soft is the agentic Autopilot that works across M365",
-    "summary": "מיקרוסופט הכריזה על בדיקות נרחבות לתכונת האוטופיילוט החדשה שלה באירוע Microsoft Build. האוטופיילוטים מוגדרים כקטגוריה חדשה של סוכנים שיכולים לפעול באופן עצמאי עבור המשתמש. לכל אוטופיילוט יש זהות משלו, מה שמאפשר עבודה עם סוכנים מרובים.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
-    "published": "2026-06-04T11:41:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-4865870236513918054",
-    "title": "אמזון מביאה עוזר קניות מבוסס AI לקמעונאים עם קייט ספייד",
-    "original_title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
-    "summary": "אמזון מציעה את טכנולוגיית הקניות מבוססת הבינה המלאכותית שלה לקמעונאים אחרים באמצעות עוזר קניות חדש בשם Agentic Shopping Assistant המבוסס על AWS. השירות מאפשר לקמעונאים לבנות עוזרי קניות מבוססי AI עבור אתרי האינטרנט והאפליקציות שלהם, כאשר ניתן להתאים כל פריסה לקטלוג של הקמעונאי.",
-    "category": "מודלי AI (LLM, VLAM, רובוטיקה ועוד)",
-    "link": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
-    "published": "2026-06-04T10:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "6094799119484884105",
-    "title": "כיצד חברת E.ON משתמשת ב-SAP S/4HANA כדי לחדש את הרשת עם בינה מלאכותית",
-    "original_title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
-    "summary": "חברת E.ON משתמשת ב-SAP S/4HANA כדי לייעל ולחדש את תשתיות הרשת שלה באמצעות בינה מלאכותית. המהלך כולל סטנדרטיזציה של נתוני הרשת, מה שמאפשר פריסת פתרונות AI לשיפור התשתיות וניהול תחומים כמו רשתות אנרגיה, פתרונות ללקוחות ותשתיות אנרגיה.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
-    "published": "2026-06-03T12:29:42",
-    "source": "AI News"
-  },
-  {
-    "id": "-7560702374800176230",
-    "title": "תהליכי AI של וולמארט פוגשים את המציאות של מאזן החברה",
-    "original_title": "Walmart’s AI workflows meet the realities of the balance sheet",
-    "summary": "וולמארט החלה להגביל את השימוש של עובדים בעוזר AI פנימי בשם Code Puppy, לאחר שהדרישות שהוטלו על מודל השפה הגדול (LLM) שתומך בכלי היו גבוהות מהמצופה. בתחילה, עובדים עודדו להשתמש בכלי ללא מגבלות, אך כעת החברה מטילה הגבלות על השימוש בו.",
-    "category": "עסקים",
-    "link": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
-    "published": "2026-06-03T09:33:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-3721973870439186796",
-    "title": "השבב הקוונטי Majorana 2 של מיקרוסופט הוא גם מקרה מבחן ל-AI סוכני במחקר ופיתוח",
-    "original_title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
-    "summary": "מיקרוסופט חשפה את שבב הקוונטום Majorana 2, שמציג שיפורים משמעותיים באמינות ובזמן החיים של קיוביטים. השבב מתוכנן לתמוך במחשב קוונטי מסחרי עד שנת 2029, ומהווה גם דוגמה לשימוש ב-AI סוכני במחקר ופיתוח.",
-    "category": "פרויקטים ואלגוריתמים מעניינים",
-    "link": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
-    "published": "2026-06-03T09:00:00",
-    "source": "AI News"
-  },
-  {
-    "id": "-3608149110828250336",
-    "title": "הנפקת אנתרופיק מסמנת את התבגרות הבינה המלאכותית לשימוש תעשייתי",
-    "original_title": "Anthropic IPO filing marks AI maturing into enterprise utility",
-    "summary": "הנפקת החברה אנתרופיק מסמנת את המעבר של בינה מלאכותית גנרטיבית משלב מחקרי לשלב של שימוש יציב בתעשייה. המעבר להנפקה ציבורית מתאם בין מטרות ההנדסה של החברה לבין תהליכי רכש סטנדרטיים, ומאפשר לוחות זמנים מובנים לשחרור טכנולוגיות.",
-    "category": "עסקים",
-    "link": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
-    "published": "2026-06-02T18:04:03",
-    "source": "AI News"
-  },
-  {
-    "id": "5358342911860152997",
-    "title": "משתמשי GitHub Copilot חווים עליות מחירים בעקבות חיוב מבוסס אסימונים",
-    "original_title": "GitHub Copilot users see token-based price hikes",
-    "summary": "מאז ההכרזה באפריל השנה, השינויים המוצעים בשיטות החיוב של GitHub Copilot עוררו ספקולציות רבות: כמה יעלה שירות AI מבוסס מודל שפה גדול (LLM) על בסיס שימוש לעומת מנוי חודשי קבוע? כעת, לאחר המעבר לשיטת חיוב מבוססת אסימונים, משתמשים מדווחים על עליות במחירים.",
-    "category": "מודלי AI",
-    "link": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
-    "published": "2026-06-02T11:09:00",
     "source": "AI News"
   }
 ]
